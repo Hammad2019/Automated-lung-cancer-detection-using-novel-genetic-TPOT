@@ -1,9 +1,10 @@
-**#Automated Lung Cancer Detection Using Novel Genetic TPOT Feature Optimization with Deep Learning Techniques
+Automated Lung Cancer Detection Using Novel Genetic TPOT Feature Optimization with Deep Learning Techniques
 
 Overview
 
 This repository contains the implementation of our research paper:
 "Automated Lung Cancer Detection Using Novel Genetic TPOT Feature Optimization with Deep Learning Techniques," published in Results in Engineering (Elsevier).
+
 Summary
 
 Lung cancer is one of the leading causes of cancer-related deaths worldwide. This project presents a cutting-edge methodology for early and accurate lung cancer detection by leveraging deep learning and advanced feature optimization techniques. Key highlights include:
@@ -71,4 +72,12 @@ Repository Structure
 ├── README.md                  # Project overview and instructions  
 └── requirements.txt           # Required Python packages  
 
-    
+
+Citation
+
+If you find this repository useful, please cite the paper:
+
+    Authors: Mohamed Hammad, Mohammed ElAffendi, Muhammad Asim, Ahmed A Abd El-Latif, Radwa Hashiesh.
+    Title: Automated Lung Cancer Detection Using Novel Genetic TPOT Feature Optimization with Deep Learning Techniques
+    Journal: Results in Engineering (Elsevier)
+    DOI: (https://doi.org/10.1016/j.rineng.2024.103448)
